@@ -1,6 +1,5 @@
 # 👋 Hello World, I'm **Dilkhush Choudhary**! 🌟  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%237DF7A5&size=30&center=true&vCenter=true&lines=Aspiring+Computer+Scientist;Machine+Learning+Enthusiast;Open+Source+Explorer;Turning+Ideas+Into+Reality)](https://github.com/dillkhush)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%237DF7A5&size=30&width=750&lines=Aspiring+Computer+Scientist;Machine+Learning+Enthusiast;Open+Source+Explorer;Turning+Ideas+Into+Reality)](https://github.com/dillkhush)
 ---
 
 ### 🚀 **About Me**  
