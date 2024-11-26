@@ -32,7 +32,7 @@
 ---
 
 ### 🔗 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dilkhush_Choudhary-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dilkhush)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dilkhush_Choudhary-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dilkhush-choudhary-1751261a3)  
 [![Twitter](https://img.shields.io/badge/Twitter-dillkhush1-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dillkhush1)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Check_My_Projects-orange?style=for-the-badge&logo=firefox)](https://dillkhush-portfolio.com)  
 
